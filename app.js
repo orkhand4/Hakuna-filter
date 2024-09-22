@@ -34,7 +34,5 @@ inpt_search.addEventListener('input', () => {
     return item.name.toUpperCase().includes(inputText.toUpperCase())
   });
   console.log((result))
-  console.log();
-  
 })
   
